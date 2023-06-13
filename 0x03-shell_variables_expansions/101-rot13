@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "A-Za-b" "N-BA-Mn-ba-m"
+tr "A-Ba-b" "N-BA-Mn-ba-m"
